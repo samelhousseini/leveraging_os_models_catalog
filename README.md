@@ -4,6 +4,13 @@ In this session, attendees will be introduced to the expansive capabilities of t
 We will also illustrate how to harness Azure Content Safety for Large Language Models (LLMs) to ensure safe and appropriate content generation. The session will further dive into the seamless integration of custom Hugging Face models into the catalog. Concluding with a practical demonstration, participants will learn the intricacies of fine-tuning and deploying the Llama-2 model using both UI and code-based options. 
 Join us to gain a holistic understanding of optimizing open-source models using the Azure ML Model Catalog.
 
+
+> **Note:**
+> This repo is for demo purposes ONLY
+
+
+
+
 ### Agenda:
 
 1. Overview of Model Catalog and latest additions (NLP & Computer Vision)
